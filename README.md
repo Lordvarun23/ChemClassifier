@@ -1,4 +1,4 @@
-#ChemClassifier
+# ChemClassifier
 
 ChemClassifier is a project that classifies the given dashed structure of a hydrocarbon into alkane, alkene, or alkyne using a Multi-Layer Perceptron (MLP). The MLP is trained on a dataset of hydrocarbons with known chemical structures which was collected by web scrappping.
 ## Dataset
